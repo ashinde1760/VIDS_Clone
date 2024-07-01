@@ -1,0 +1,7 @@
+::ng-deep .countCard {
+  width: 100%;
+  height: auto;
+  background-color: rgb(164, 212, 212) !important;
+  text-align: center;
+    /* margin-right: 20px; */
+}
